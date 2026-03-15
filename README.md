@@ -92,7 +92,10 @@ plt.show()
 ```
 # Output
 ![Output]Screenshot 2026-03-15 143228.png
+
 ![Output]Screenshot 2026-03-15 143237.png
+
 ![Output]Screenshot 2026-03-15 143257.png
+
 ## Result:
  Thus ,data visualization using maplot library for the given data was implemented successfully.
